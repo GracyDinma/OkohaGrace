@@ -47,9 +47,9 @@ Currently improving my skills in **Python backend development**, **AI integratio
 ---
 
 ### 📈 GitHub Stats
-![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OkohaGrace&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OkohaGrace&layout=compact&theme=radical)
-[![Grace's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OkohaGrace&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GracyDinma&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GracyDinma&layout=compact&theme=radical)
+[![Grace's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GracyDinma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -63,7 +63,7 @@ Currently improving my skills in **Python backend development**, **AI integratio
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-OkohaGrace-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/okohagrace)
-[![GitHub](https://img.shields.io/badge/-OkohaGrace-black?logo=github)](https://github.com/OkohaGrace)
+[![GitHub](https://img.shields.io/badge/-Okoha Grace-black?logo=github)](https://github.com/OkohaGrace)
 [![Gmail](https://img.shields.io/badge/-okohagchidinma@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:okohagchidinma@gmail.com)
 
 ---
